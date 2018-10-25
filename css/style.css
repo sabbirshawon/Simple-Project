@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(#ece9e6, #ffffff) no-repeat fixed 0 0 / cover  rgba(0, 0, 0, 0);
+height: 655px;
+}
+.myinput{width: 75%;}
+.myform{margin-top: 75px;}
+
+.show{margin-top: 75px;}
+.search{margin-top: 75px;}
+.reg_submit{margin-top: 10px;
+			margin-bottom: 10px;
+}
+.form_bg,.login_bg{border:1px solid gray;
+		border-radius:10px;
+		box-shadow: 2px 2px 2px 2px #888888;}
+.tbl{margin-top:20px;}
