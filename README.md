@@ -1,8 +1,8 @@
 # Simple Row PHP Project
---> LOGIN 
---> REGISTRATION
---> INSERT
---> UPDATE
---> VIEW
---> DELETE
---> LOGOUT
+--> LOGIN <br>
+--> REGISTRATION <br>
+--> INSERT <br>
+--> UPDATE <br>
+--> VIEW <br>
+--> DELETE <br>
+--> LOGOUT 
